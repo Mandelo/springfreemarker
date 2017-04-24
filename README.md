@@ -1,2 +1,0 @@
-# SpringFreemarker
-springMVC+freemarker test
