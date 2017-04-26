@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="springfreemarker">
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
@@ -8,3 +9,6 @@
         <property name="java-output-path" value="/springfreemarker/target/classes"/>
     </wb-module>
 </project-modules>
+=======
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId"/>
+>>>>>>> 008bbc65da7612cf371ffb996e842744a3b8786b
