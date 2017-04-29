@@ -7,6 +7,6 @@
 <title>welcome page</title>
 </head>
 <body>
-    <a href="freemarker">Test</a>
+    <a href="freemarker">TestFreemarker</a>
 </body>
 </html>
